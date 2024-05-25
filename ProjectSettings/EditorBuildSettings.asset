@@ -5,16 +5,25 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 0
-    path: Assets/Scenes/Main.unity
-    guid: 2425c36c6076d774c89237af1bd47e71
-  - enabled: 0
-    path: Assets/Scenes/Level.unity
-    guid: e339399de8a963842af1d26af9428038
-  - enabled: 0
-    path: Assets/Scenes/Level2.unity
-    guid: beb26fa19e16dfd45bf34a60779a41d8
-  - enabled: 0
-    path: Assets/Scenes/Level3.unity
-    guid: b0b226909540a194198c908d168bd720
+  - enabled: 1
+    path: Assets/MyGame/Scene/Home.unity
+    guid: a66196c91ac7f3f48b84678470df20da
+  - enabled: 1
+    path: Assets/MyGame/Scene/Leason8.unity
+    guid: e7b244cfe5707044990a213295b8f610
+  - enabled: 1
+    path: Assets/MyGame/Scene/Garege.unity
+    guid: 337fa4cdd170f1b4c82f82dc1b888724
+  - enabled: 1
+    path: Assets/MyGame/Scene/Store.unity
+    guid: 4b42832e75173bf41827fa6ffa5a279b
+  - enabled: 1
+    path: Assets/MyGame/Scene/Diamound.unity
+    guid: 68c23d414883db44499c4d4b6087d97d
+  - enabled: 1
+    path: Assets/MyGame/Scene/Coin.unity
+    guid: bc7d22f1aae243e4f88f0ea431c64976
+  - enabled: 1
+    path: Assets/MyGame/Scene/Setting.unity
+    guid: 285d28515fb25c14ba0c557a02880cf2
   m_configObjects: {}
